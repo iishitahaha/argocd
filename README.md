@@ -1,0 +1,2 @@
+# argocd
+Practice for Argocd
